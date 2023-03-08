@@ -6,7 +6,7 @@ metabolomics data. They are pretty messy and basic.
 The basic code is for searching for specific metabolites based on high-resolution mass and retention time.
 And plotting it for comparison between samples.
 
-Some scripts are for separate cases, like search for in-source fragmentation (metabolite pairs) or 
+Some scripts are for separate cases, like search for in-source fragmentation (feature pairs) or 
 database matching. 
 
 I would like to rebuild them in Python with the tools learned in this course. 
